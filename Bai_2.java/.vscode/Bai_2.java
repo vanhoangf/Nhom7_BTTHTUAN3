@@ -28,7 +28,6 @@ public class Bai_2
         System.out.println("Gioi tinh: " + gioitinh);
         System.out.println("Co thich lap trinh khong? " + thichLapTrinh);
         
-        // Dong scanner de tranh ro ri bo nho
         scanner.close();
     }
 }
