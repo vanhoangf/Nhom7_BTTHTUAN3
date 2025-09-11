@@ -1,6 +1,6 @@
 package com.mycompany.Ledoandan;
 import java.util.Scanner;
-public class Ledoandan {
+public class Bai1 {
 
     public static void main(String[] args) {
         String a;
