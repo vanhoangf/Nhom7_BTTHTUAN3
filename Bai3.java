@@ -1,5 +1,9 @@
 import java.util.Scanner;
+<<<<<<< HEAD
+public class LeDinhDanhbai3
+=======
 public class Bai3
+>>>>>>> c2dd8467051659a2d24c9e235de9a3f1fff998df
 {
     public static void main(String[] args)
     {
