@@ -1,8 +1,8 @@
-package BTTHUCHANH_TUAN4;
 import java.util.Scanner;
-
-public class bai7 {
-    public static void main(String[] args) {
+public class bai7 
+{
+    public static void main(String[] args) 
+    {
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhập vào số lượng phần tử của mảng: ");
         int n = sc.nextInt();
@@ -15,7 +15,8 @@ public class bai7 {
 
         int tong = 0;
 
-        for(int i = 0; i < n; ++i) {
+        for(int i = 0; i < n; ++i) 
+        {
             tong += a[i];
         }
 
